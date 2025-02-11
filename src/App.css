@@ -1,0 +1,23 @@
+.w{
+   width: 100%;
+   border-collapse: collapse;
+}
+
+.w th {
+  background-color: orange;
+  padding: .6rem 0;
+
+}
+
+.w tr {
+  text-align: center;
+
+}
+.w tr:nth-child(odd){
+  background-color: rgb(111, 128, 128);
+ 
+}
+.w td{
+
+  padding: 1rem 0;
+}
